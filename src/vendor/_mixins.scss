@@ -1,0 +1,6 @@
+@import "vars";
+
+@mixin padding-margin-null-auto() {
+  padding: 0;
+  margin: 0 auto;
+}
