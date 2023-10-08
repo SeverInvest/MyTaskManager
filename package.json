@@ -1,7 +1,13 @@
 {
-  "name": "frontend_diploma",
+  "name": "my_task_manager",
   "version": "0.1.0",
   "private": false,
+  "author": "Nikolay Vasilyev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeverInvest/my_task_manager"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.4.0",
